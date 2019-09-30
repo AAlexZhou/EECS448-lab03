@@ -1,0 +1,46 @@
+body
+{
+  background-image: url("picture/board.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+ h1
+ {
+  font-family: arial;
+  font-size: 22pt;
+  background-color: black;
+  color: white;
+
+ }
+h2
+{
+  font-family: arial;
+  font-size: 22pt;
+  color: red;
+}
+a
+{
+    background-color: yellow;
+    color: black;
+    font-family: "arical";
+    font-size: 12pt;
+}
+
+a:hover
+{
+  background-color: blue;
+  color: white;
+  font-family: "arical";
+  font-size: 16pt;
+}
+
+p
+{
+    color: black;
+}
+p.one
+{
+  color: white;
+  background-color: blue;
+}
